@@ -1,7 +1,7 @@
 {
-  "name": "ir14-bot",
+  "name": "simple-vk-bot",
   "version": "1.0.0",
-  "description": "Chat bot",
+  "description": "Vk chat bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
